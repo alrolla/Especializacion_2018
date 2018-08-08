@@ -5,6 +5,6 @@ Se estudió la variabilidad interanual de la lluvia de verano en la región Pamp
 </p>
 
 ## 1.	Análisis exploratorio de los datos.
-   - PROGRAMAS
-      - P0_b.Boxplots.R . BOXPLOTS POR ESTACION Y POR AGRUPAMIENTO.
-         - RESULTADOS
+   - *PROGRAMAS*
+      - *P0_b.Boxplots.R* . BOXPLOTS POR ESTACION Y POR AGRUPAMIENTO.
+         - RESULTADOS (../Analisis_Exploratorio/)
