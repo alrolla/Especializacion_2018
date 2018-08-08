@@ -10,7 +10,7 @@ Se estudió la variabilidad interanual de la lluvia de verano en la región Pamp
       - **P0_b.Boxplots.R**        . BOXPLOTS POR ESTACION Y POR AGRUPAMIENTO.    
          - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Analisis_Exploratorio)
          
-      - *P1_Clusters_DEF_PRE.R*  . AGRUPAMIENTO DE ESTACIONES (JERARQUICO y  NO- JERARQUICO).  
-      - *P1_Tests_Clusters.R*    . ANOVA DE AGRUPAMIENTOS.     
+      - **P1_Clusters_DEF_PRE.R**  . AGRUPAMIENTO DE ESTACIONES (JERARQUICO y  NO- JERARQUICO).  
+      - **P1_Tests_Clusters.R**   . ANOVA DE AGRUPAMIENTOS.     
          - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Analisis_Exploratorio)
        
