@@ -21,19 +21,19 @@ Se estudió la variabilidad interanual de la lluvia de verano en la región Pamp
       - **P3_Predictores.R**    . GENERA PREDICTORES ( MAPAS DE CORRELACION y SERIES DE PREDICTORES).     
          - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Predictores)
    - ### LASSO (pre-selección de predictores).     
-      - **P4_Lasso.R**    . GENERA PREDICTORES ( MAPAS DE CORRELACION y SERIES DE PREDICTORES).     
+      - **P4_Lasso.R**    . SELECCION DE PREDICTORES SIGNIFICATIVOS.     
          - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Lasso)
    - ### Construcción de los modelos.              
-      - **P5_Modelos.R**    . GENERA PREDICTORES ( MAPAS DE CORRELACION y SERIES DE PREDICTORES).     
+      - **P5_Modelos.R**    . STEP_FORWAD GENERACION DE MODELOS CON LOS PREDICTORES SELECCIONADOS.     
          - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Modelos)
    - ### 3.4.	Verificación de los modelos.             
-      - **P6_Regresion_Clasificacion.R**    . GENERA PREDICTORES ( MAPAS DE CORRELACION y SERIES DE PREDICTORES).     
+      - **P6_Regresion_Clasificacion.R**    . REALIZA LA VERIFICION Y LA CLASIFICACION EN SUB,SOBRE y NORMAL.     
          - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Regresion_Clasificacion)
    - ### Pronóstico estacional de verano.      
-      - **P7_PronosticoXEstacion.R**    . GENERA PREDICTORES ( MAPAS DE CORRELACION y SERIES DE PREDICTORES).     
+      - **P7_PronosticoXEstacion.R**    . REALIZA UN PRONOSTICO PARA LA REGION CON LOS MEJORES MODELOS.     
          - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Pronostico)
    - ### Verificación del pronóstico para el año 2016     
-      - **P8_MapaVerificacion.R**    . GENERA PREDICTORES ( MAPAS DE CORRELACION y SERIES DE PREDICTORES).     
+      - **P8_MapaVerificacion.R**    . GRAFICA EL MAPA RESULTANTE DEL PRONOSTICO.     
          - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Pronostico)
 
 
