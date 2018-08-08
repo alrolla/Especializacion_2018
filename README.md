@@ -12,29 +12,29 @@ Se estudió la variabilidad interanual de la lluvia de verano en la región Pamp
    - ### Clustering (agrupamientos).       
       - **P1_Clusters_DEF_PRE.R**  . AGRUPAMIENTO DE ESTACIONES (JERARQUICO y  NO- JERARQUICO).  
       - **P1_Tests_Clusters.R**   . ANOVA DE AGRUPAMIENTOS.     
-         - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Analisis_Exploratorio)
+         - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Agrupamientos)
    - ### Generacion de series de datos.
       - **P2_SeriesEstacion.R**  . GENERA SERIES POR ESTACION METEO.  
       - **P2_SeriesMedias.R**    . GENERA SERIES MEDIAS POR AGRUPAMIENTO.     
-         - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Analisis_Exploratorio)
-
+         - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Series_Medias_Agrup_Estaciones)
+   - ### Análisis de forzantes globales.         
       - **P3_Predictores.R**    . GENERA PREDICTORES ( MAPAS DE CORRELACION y SERIES DE PREDICTORES).     
-         - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Analisis_Exploratorio)
-
+         - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Predictores)
+   - ### LASSO (pre-selección de predictores).     
       - **P4_Lasso.R**    . GENERA PREDICTORES ( MAPAS DE CORRELACION y SERIES DE PREDICTORES).     
-         - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Analisis_Exploratorio)
-         
+         - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Lasso)
+   - ### Construcción de los modelos.              
       - **P5_Modelos.R**    . GENERA PREDICTORES ( MAPAS DE CORRELACION y SERIES DE PREDICTORES).     
-         - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Analisis_Exploratorio)
-
+         - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Modelos)
+   - ### 3.4.	Verificación de los modelos.             
       - **P6_Regresion_Clasificacion.R**    . GENERA PREDICTORES ( MAPAS DE CORRELACION y SERIES DE PREDICTORES).     
-         - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Analisis_Exploratorio)
-
+         - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Regresion_Clasificacion)
+   - ### Pronóstico estacional de verano.      
       - **P7_PronosticoXEstacion.R**    . GENERA PREDICTORES ( MAPAS DE CORRELACION y SERIES DE PREDICTORES).     
-         - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Analisis_Exploratorio)
-
+         - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Pronostico)
+   - ### Verificación del pronóstico para el año 2016     
       - **P8_MapaVerificacion.R**    . GENERA PREDICTORES ( MAPAS DE CORRELACION y SERIES DE PREDICTORES).     
-         - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Analisis_Exploratorio)
+         - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Pronostico)
 
 
 
