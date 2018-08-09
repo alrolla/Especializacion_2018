@@ -1,5 +1,4 @@
 # Trabajo de Especialización 2018 (ALR)
-*Especialista en Explotación de Datos y Descubrimiento de Conocimiento*
 
 ## Resumen
 <p align="justify" >
