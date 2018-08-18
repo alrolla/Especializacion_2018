@@ -27,7 +27,7 @@ Se estudió la variabilidad interanual de la lluvia de verano en la región Pamp
    - ### Construcción de los modelos.              
       - **P5_Modelos.R**    . STEP_FORWAD GENERACION DE MODELOS CON LOS PREDICTORES SELECCIONADOS.     
          - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Modelos)
-   - ### 3.4.	Verificación de los modelos.             
+   - ### Verificación de los modelos.             
       - **P6_Regresion_Clasificacion.R**    . VERIFICACION Y LA CLASIFICACION EN SUB,SOBRE y NORMAL.     
          - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Regresion_Clasificacion)
    - ### Pronóstico estacional de verano.      
