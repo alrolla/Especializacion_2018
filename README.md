@@ -1,4 +1,4 @@
-# Trabajo de Especialización 2018 (ALR) [paper](https://github.com/alrolla/Especializacion_2018/blob/master/Doc/T_Esp_ALFREDO_ROLLA_2018.pdf)
+# Trabajo de Especialización 2018 (ALR) [descargar](https://github.com/alrolla/Especializacion_2018/blob/master/Doc/T_Esp_ALFREDO_ROLLA_2018.pdf)
 
 ## Resumen
 <p align="justify" >
