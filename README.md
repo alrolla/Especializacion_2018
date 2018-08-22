@@ -1,6 +1,5 @@
 # Trabajo de Especialización 2018 (ALR) 
 ## [descargar](https://github.com/alrolla/Especializacion_2018/blob/master/Doc/T_Esp_ALFREDO_ROLLA_2018.pdf)
-
 ## Resumen
 <p align="justify" >
 Se estudió la variabilidad interanual de la lluvia de verano en la región Pampeana para intentar predecir la precipitación estacional utilizando modelos de regresión lineal múltiple. Este trabajo utilizó las precipitaciones observadas de verano (diciembre, enero y febrero) como predictando en la región Pampeana de Argentina, y como variables predictoras series de variables atmosféricas y oceánicas globales del mes anterior al verano (noviembre). Se emplearon técnicas de agrupamiento para definir regiones similares de precipitación estacional de verano. Las principales variables predictoras globales utilizadas fueron la altura geopotencial (presión atmosférica), cantidad total de agua en la columna atmosférica, viento en capas bajas de la atmósfera (850hPa) y la temperatura de la superficie del mar. El análisis estadístico de las mismas permitió definir las series de variables predictoras a ser utilizadas en cada región para la construcción de modelos de regresión lineal múltiple regionales. Finalmente se aplicaron los modelos regionales a una situación real de pronóstico.
