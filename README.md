@@ -1,4 +1,4 @@
-# Trabajo de Especialización 2018 (ALR)
+# Trabajo de Especialización 2018 (ALR) [paper](../Doc/TE_ALROLLA_2018_08_12.pdf)
 
 ## Resumen
 <p align="justify" >
